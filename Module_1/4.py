@@ -2,7 +2,7 @@
 # Answer: 2 2 2
 
 # Task 2
-# Answer: 5
+# Answer: 1 2 2
 
 # Task 3
 n = int(input())
